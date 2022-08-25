@@ -1,0 +1,4 @@
+project: PROJECT
+target: speex_decode_fuzzer_fixed
+cmds:
+- cmd: /out/speex_decode_fuzzer_fixed
